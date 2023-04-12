@@ -1,0 +1,94 @@
+.site-header {
+	text-align: center;
+	text-transform: uppercase;
+	color: #F9EFEF;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: large;
+	letter-spacing: 8px;
+	border-width: thin;
+	border-style: none;
+}
+
+nav {
+	text-align: center;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-size: large;
+	font-weight: 100;
+	word-spacing: 20px;
+	white-space: normal;
+	vertical-align: baseline;
+	/* [disabled]background-color: #F3EAEA; */
+	-webkit-box-shadow: 0px 0px;
+	box-shadow: 0px 0px;
+	background-attachment: scroll;
+	background-origin: padding-box;
+	background-repeat: no-repeat;
+	background-position: 0% 0%;
+	color: #F3EFEF;
+}
+body {
+	background-size: 100% auto;
+
+
+
+	background-image: url(pexels-mo-eid-11592804
+%20(1).jpg);
+	background-image: url(pexels-allec-gomes-5403485.jpg);
+}
+
+paragraph {
+	color: #F4F1F1;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+
+.paragraph {
+	color: #FCF7F7;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	font-style: italic;
+	font-size: large;
+	text-align: center;
+	font-weight: bold;
+	text-shadow: 0px 0px #969696;
+	background-color: #5CC31C;
+	-webkit-box-shadow: 0px 0px 10px;
+	box-shadow: 0px 0px 10px;
+	background-size: contain;
+	background-position: 0 0%;
+}
+
+header {
+	text-align: center;
+	color: #F7F7F7;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-variant: normal;
+	font-weight: 400;
+	font-size: xx-large;
+	word-spacing: 10PX;
+}
+
+form {
+	color: #FFFFFF;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+
+p {
+    color: #F9F5F6;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    background-color: #5cc31c;
+    text-align: center;
+}
+
+footer {
+    color: #F7F0F0;
+    text-align: center;
+}
+
+a {
+    color: #F8F0F1;	
+}
+
+img {
+    	
+}
